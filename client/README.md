@@ -1,4 +1,8 @@
-# React + Vite
+#Shope Ecommerce 
+
+Tech Stack used 
+Frontend : HTML5 CSS, SCSS, JavaScript, ReactJS, Redux Toolkit, React-router-dom
+Backend: Strapi, Stripe for payment add product
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
